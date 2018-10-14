@@ -1,0 +1,16 @@
+{
+  "name": "homeaway-mongo",
+  "version": "1.0.0",
+  "description": "homeaway website with mongo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kailash",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.1.8",
+    "mongoose": "^5.3.3"
+  }
+}
